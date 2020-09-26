@@ -1,0 +1,10 @@
+{
+    "python.autoComplete.extraPaths": [
+
+    "/home/lab/works/fig_ocr/vm/lib/python3.6/site-packages",
+    "/home/lab/works/fig_ocr/src/text-recognition",
+    "/home/lab/works/fig_ocr/src/text-detect",
+    ],
+    "python.jediEnabled": false,
+    "python.languageServer": "Microsoft",
+}

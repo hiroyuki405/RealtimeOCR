@@ -1,0 +1,403 @@
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/00000.jpg     	el                       	0.3186
+demo_image/000001.jpg    	intercoment              	0.0001
+demo_image/00001.jpg     	q                        	0.3959
+demo_image/00002.jpg     	i                        	0.2525
+demo_image/000002.jpg    	contanded                	0.0000
+demo_image/000003.jpg    	substation               	0.0000
+demo_image/00003.jpg     	zz                       	0.2779
+demo_image/000004.jpg    	contanting               	0.0000
+demo_image/000005.jpg    	i                        	0.1944
+demo_image/000006.jpg    	conservent               	0.0000
+demo_image/000008.jpg    	substating               	0.0000
+demo_image/000009.jpg    	contralizing             	0.0000
+demo_image/000010.jpg    	sups                     	0.0025
+demo_image/000012.jpg    	alland                   	0.0002
+demo_image/000013.jpg    	surestrates              	0.0000
+demo_image/000016.jpg    	supporting               	0.0000
+demo_image/000017.jpg    	the                      	0.1263
+demo_image/000019.jpg    	consupting               	0.0000
+demo_image/000025.jpg    	longsound                	0.0000
+demo_image/000029.jpg    	consuructions            	0.0000
+demo_image/00032.jpg     	g                        	0.5252
+demo_image/00033.jpg     	z                        	0.2531
+demo_image/00034.jpg     	d                        	0.4862
+demo_image/00035.jpg     	e                        	0.5310
+demo_image/00036.jpg     	k                        	0.4419
+demo_image/000037.jpg    	state                    	0.0005
+demo_image/00037.jpg     	d                        	0.1673
+demo_image/00038.jpg     	ef                       	0.4788
+demo_image/00039.jpg     	g                        	0.7984
+demo_image/00040.jpg     	i                        	0.5841
+demo_image/00041.jpg     	e                        	0.8109
+demo_image/00042.jpg     	i                        	0.2660
+demo_image/00043.jpg     	i                        	0.3087
+demo_image/00044.jpg     	b                        	0.6687
+demo_image/00045.jpg     	9                        	0.4621
+demo_image/00046.jpg     	i                        	0.2530
+demo_image/00047.jpg     	is                       	0.3455
+demo_image/000047.jpg    	ond                      	0.0051
+demo_image/00048.jpg     	e                        	0.3569
+demo_image/00049.jpg     	b                        	0.8649
+demo_image/00050.jpg     	bi                       	0.3997
+demo_image/000050.jpg    	ref                      	0.0188
+demo_image/00051.jpg     	q                        	0.2841
+demo_image/00052.jpg     	z                        	0.7371
+demo_image/00053.jpg     	a                        	0.3575
+demo_image/00054.jpg     	7                        	0.3183
+demo_image/00055.jpg     	8                        	0.5290
+demo_image/000064.jpg    	the                      	0.1891
+demo_image/000066.jpg    	less                     	0.0099
+demo_image/000071.jpg    	the                      	0.1263
+demo_image/000075.jpg    	suppersing               	0.0000
+demo_image/000077.jpg    	can                      	0.0101
+demo_image/000080.jpg    	ond                      	0.0051
+demo_image/000089.jpg    	surgent                  	0.0001
+demo_image/000104.jpg    	the                      	0.1726
+demo_image/000119.jpg    	partent                  	0.0001
+demo_image/000125.jpg    	sellating                	0.0000
+demo_image/000148.jpg    	vines                    	0.0009
+demo_image/000150.jpg    	surgent                  	0.0000
+demo_image/000154.jpg    	beling                   	0.0003
+demo_image/000167.jpg    	the                      	0.1134
+demo_image/000216.jpg    	surgent                  	0.0001
+demo_image/000222.jpg    	apraod                   	0.0016
+demo_image/000232.jpg    	selled                   	0.0001
+demo_image/000259.jpg    	the                      	0.0563
+demo_image/000281.jpg    	azara                    	0.0005
+demo_image/000356.jpg    	the                      	0.0180
+demo_image/000366.jpg    	kind                     	0.0047
+demo_image/000376.jpg    	disconding               	0.0002
+demo_image/000437.jpg    	saller                   	0.0001
+demo_image/000491.jpg    	constracting             	0.0000
+demo_image/000521.jpg    	contrologist             	0.0000
+demo_image/000534.jpg    	sure                     	0.0006
+demo_image/000537.jpg    	trans                    	0.0062
+demo_image/000543.jpg    	instation                	0.0001
+demo_image/Screenshot from 2020-07-14 17-16-18.png	and                      	0.0076
+demo_image/Screenshot from 2020-07-14 17-16-39.png	diso                     	0.1835
+demo_image/Screenshot from 2020-07-14 17-16-44.png	dox                      	0.0233
+demo_image/Screenshot from 2020-07-14 17-16-57.png	a                        	0.2105
+demo_image/Screenshot from 2020-07-14 17-17-17.png	the                      	0.0179
+demo_image/Screenshot from 2020-07-14 17-17-50.png	tellesstip               	0.0027
+demo_image/Screenshot from 2020-07-14 17-18-17.png	suppers                  	0.0001
+demo_image/Screenshot from 2020-07-14 17-24-07.png	proposing                	0.0000
+demo_image/Screenshot from 2020-07-14 17-24-19.png	reversing                	0.0000
+demo_image/Screenshot from 2020-07-14 17-24-34.png	pesssons                 	0.0000
+demo_image/Screenshot from 2020-07-14 17-24-49.png	sellations               	0.0000
+demo_image/Screenshot from 2020-07-14 17-24-54.png	trans                    	0.0009
+demo_image/Screenshot from 2020-07-14 17-24-59.png	election                 	0.0005
+demo_image/Screenshot from 2020-07-14 17-27-52.png	supportaging             	0.0000
+demo_image/Screenshot from 2020-07-14 17-27-56.png	supper                   	0.0051
+demo_image/Screenshot from 2020-07-14 17-28-06.png	contraction              	0.0001
+demo_image/Screenshot from 2020-07-14 17-28-27.png	flath                    	0.0005
+demo_image/demo_1.png    	available                	0.9999
+demo_image/demo_2.jpg    	shakeshack               	0.9533
+demo_image/demo_3.png    	london                   	0.9840
+demo_image/demo_4.png    	greenstead               	0.9985
+demo_image/demo_5.png    	toast                    	0.9961
+demo_image/demo_6.png    	merry                    	0.9975
+demo_image/demo_7.png    	underground              	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	0.8387
+demo_image/demo_9.jpg    	bally                    	0.7566
+demo_image/demo_10.jpg   	university               	0.9998
+demo_image/seg000001.jpg 	her                      	0.0870
+demo_image/seg000002.jpg 	eles                     	0.0059
+demo_image/seg000003.jpg 	substering               	0.0000
+demo_image/seg000006.jpg 	lied                     	0.0143
+demo_image/seg000007.jpg 	bbb                      	0.3884
+demo_image/seg000008.jpg 	states                   	0.0006
+demo_image/seg000011.jpg 	ed199                    	0.0376
+demo_image/seg000013.jpg 	and                      	0.1098
+demo_image/seg000016.jpg 	apr                      	0.0225
+demo_image/seg000018.jpg 	doondo                   	0.0119
+demo_image/seg000019.jpg 	berset                   	0.0067
+demo_image/seg000021.jpg 	dislow                   	0.0286
+demo_image/seg000022.jpg 	sure                     	0.0083
+demo_image/seg000024.jpg 	estraphers               	0.0000
+demo_image/seg000028.jpg 	manalas                  	0.0002
+demo_image/seg000031.jpg 	bad                      	0.0441
+demo_image/seg000032.jpg 	bees                     	0.0123
+demo_image/seg000056.jpg 	spucally                 	0.0004
+demo_image/seg000060.jpg 	extrications             	0.0001
+demo_image/seg000066.jpg 	and                      	0.0515
+demo_image/seg000069.jpg 	sellencess               	0.0000
+demo_image/seg000073.jpg 	the                      	0.0525
+demo_image/seg000079.jpg 	supporting               	0.0000
+demo_image/seg000101.jpg 	lister                   	0.0012
+demo_image/seg000109.jpg 	acurs                    	0.0033
+demo_image/seg000110.jpg 	man                      	0.0072
+demo_image/seg000113.jpg 	consersing               	0.0000
+demo_image/seg000116.jpg 	for                      	0.0395
+demo_image/seg000117.jpg 	promentalization         	0.0000
+demo_image/seg000125.jpg 	sunis                    	0.0006
+demo_image/seg000130.jpg 	a                        	0.2937
+demo_image/seg000154.jpg 	leys                     	0.0017
+demo_image/seg000159.jpg 	shysed                   	0.0071
+demo_image/seg000169.jpg 	the                      	0.0104
+demo_image/seg000175.jpg 	bess                     	0.0304
+demo_image/seg000200.jpg 	wits                     	0.0098
+demo_image/seg000204.jpg 	et                       	0.2137
+demo_image/seg000217.jpg 	dasi                     	0.0979
+demo_image/seg000237.jpg 	missas                   	0.0019
+demo_image/seg000238.jpg 	whs                      	0.0767
+demo_image/seg000239.jpg 	eless                    	0.0144
+demo_image/seg000242.jpg 	toonest                  	0.0025
+demo_image/seg000246.jpg 	the                      	0.0502
+demo_image/seg000328.jpg 	states                   	0.0000
+demo_image/seg000367.jpg 	a                        	0.2739
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/00000.jpg     	el                       	0.3186
+demo_image/000001.jpg    	intercoment              	0.0001
+demo_image/00001.jpg     	q                        	0.3959
+demo_image/00002.jpg     	i                        	0.2525
+demo_image/000002.jpg    	contanded                	0.0000
+demo_image/000003.jpg    	substation               	0.0000
+demo_image/00003.jpg     	zz                       	0.2779
+demo_image/000004.jpg    	contanting               	0.0000
+demo_image/000005.jpg    	i                        	0.1944
+demo_image/000006.jpg    	conservent               	0.0000
+demo_image/000008.jpg    	substating               	0.0000
+demo_image/000009.jpg    	contralizing             	0.0000
+demo_image/000010.jpg    	sups                     	0.0025
+demo_image/000012.jpg    	alland                   	0.0002
+demo_image/000013.jpg    	surestrates              	0.0000
+demo_image/000016.jpg    	supporting               	0.0000
+demo_image/000017.jpg    	the                      	0.1263
+demo_image/000019.jpg    	consupting               	0.0000
+demo_image/000025.jpg    	longsound                	0.0000
+demo_image/000029.jpg    	consuructions            	0.0000
+demo_image/00032.jpg     	g                        	0.5252
+demo_image/00033.jpg     	z                        	0.2531
+demo_image/00034.jpg     	d                        	0.4862
+demo_image/00035.jpg     	e                        	0.5310
+demo_image/00036.jpg     	k                        	0.4419
+demo_image/000037.jpg    	state                    	0.0005
+demo_image/00037.jpg     	d                        	0.1673
+demo_image/00038.jpg     	ef                       	0.4788
+demo_image/00039.jpg     	g                        	0.7984
+demo_image/00040.jpg     	i                        	0.5841
+demo_image/00041.jpg     	e                        	0.8109
+demo_image/00042.jpg     	i                        	0.2660
+demo_image/00043.jpg     	i                        	0.3087
+demo_image/00044.jpg     	b                        	0.6688
+demo_image/00045.jpg     	9                        	0.4621
+demo_image/00046.jpg     	i                        	0.2530
+demo_image/00047.jpg     	is                       	0.3455
+demo_image/000047.jpg    	ond                      	0.0051
+demo_image/00048.jpg     	e                        	0.3569
+demo_image/00049.jpg     	b                        	0.8649
+demo_image/00050.jpg     	bi                       	0.3997
+demo_image/000050.jpg    	ref                      	0.0188
+demo_image/00051.jpg     	q                        	0.2841
+demo_image/00052.jpg     	z                        	0.7371
+demo_image/00053.jpg     	a                        	0.3575
+demo_image/00054.jpg     	7                        	0.3183
+demo_image/00055.jpg     	8                        	0.5290
+demo_image/000064.jpg    	the                      	0.1891
+demo_image/000066.jpg    	less                     	0.0099
+demo_image/000071.jpg    	the                      	0.1263
+demo_image/000075.jpg    	suppersing               	0.0000
+demo_image/000077.jpg    	can                      	0.0101
+demo_image/000080.jpg    	ond                      	0.0051
+demo_image/000089.jpg    	surgent                  	0.0001
+demo_image/000104.jpg    	the                      	0.1726
+demo_image/000119.jpg    	partent                  	0.0001
+demo_image/000125.jpg    	sellating                	0.0000
+demo_image/000148.jpg    	vines                    	0.0009
+demo_image/000150.jpg    	surgent                  	0.0000
+demo_image/000154.jpg    	beling                   	0.0003
+demo_image/000167.jpg    	the                      	0.1134
+demo_image/000216.jpg    	surgent                  	0.0001
+demo_image/000222.jpg    	apraod                   	0.0016
+demo_image/000232.jpg    	selled                   	0.0001
+demo_image/000259.jpg    	the                      	0.0563
+demo_image/000281.jpg    	azara                    	0.0005
+demo_image/000356.jpg    	the                      	0.0180
+demo_image/000366.jpg    	kind                     	0.0047
+demo_image/000376.jpg    	disconding               	0.0002
+demo_image/000437.jpg    	saller                   	0.0001
+demo_image/000491.jpg    	constracting             	0.0000
+demo_image/000521.jpg    	contrologist             	0.0000
+demo_image/000534.jpg    	sure                     	0.0006
+demo_image/000537.jpg    	trans                    	0.0062
+demo_image/000543.jpg    	instation                	0.0001
+demo_image/Screenshot from 2020-07-14 17-16-18.png	and                      	0.0076
+demo_image/Screenshot from 2020-07-14 17-16-39.png	diso                     	0.1835
+demo_image/Screenshot from 2020-07-14 17-16-44.png	dox                      	0.0233
+demo_image/Screenshot from 2020-07-14 17-16-57.png	a                        	0.2105
+demo_image/Screenshot from 2020-07-14 17-17-17.png	the                      	0.0179
+demo_image/Screenshot from 2020-07-14 17-17-50.png	tellesstip               	0.0027
+demo_image/Screenshot from 2020-07-14 17-18-17.png	suppers                  	0.0001
+demo_image/Screenshot from 2020-07-14 17-24-07.png	proposing                	0.0000
+demo_image/Screenshot from 2020-07-14 17-24-19.png	reversing                	0.0000
+demo_image/Screenshot from 2020-07-14 17-24-34.png	pesssons                 	0.0000
+demo_image/Screenshot from 2020-07-14 17-24-49.png	sellations               	0.0000
+demo_image/Screenshot from 2020-07-14 17-24-54.png	trans                    	0.0009
+demo_image/Screenshot from 2020-07-14 17-24-59.png	election                 	0.0005
+demo_image/Screenshot from 2020-07-14 17-27-52.png	supportaging             	0.0000
+demo_image/Screenshot from 2020-07-14 17-27-56.png	supper                   	0.0051
+demo_image/Screenshot from 2020-07-14 17-28-06.png	contraction              	0.0001
+demo_image/Screenshot from 2020-07-14 17-28-27.png	flath                    	0.0005
+demo_image/demo_1.png    	available                	0.9999
+demo_image/demo_2.jpg    	shakeshack               	0.9533
+demo_image/demo_3.png    	london                   	0.9840
+demo_image/demo_4.png    	greenstead               	0.9985
+demo_image/demo_5.png    	toast                    	0.9961
+demo_image/demo_6.png    	merry                    	0.9975
+demo_image/demo_7.png    	underground              	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	0.8387
+demo_image/demo_9.jpg    	bally                    	0.7566
+demo_image/demo_10.jpg   	university               	0.9998
+demo_image/seg000001.jpg 	her                      	0.0870
+demo_image/seg000002.jpg 	eles                     	0.0059
+demo_image/seg000003.jpg 	substering               	0.0000
+demo_image/seg000006.jpg 	lied                     	0.0143
+demo_image/seg000007.jpg 	bbb                      	0.3884
+demo_image/seg000008.jpg 	states                   	0.0006
+demo_image/seg000011.jpg 	ed199                    	0.0376
+demo_image/seg000013.jpg 	and                      	0.1099
+demo_image/seg000016.jpg 	apr                      	0.0225
+demo_image/seg000018.jpg 	doondo                   	0.0119
+demo_image/seg000019.jpg 	berset                   	0.0067
+demo_image/seg000021.jpg 	dislow                   	0.0286
+demo_image/seg000022.jpg 	sure                     	0.0083
+demo_image/seg000024.jpg 	estraphers               	0.0000
+demo_image/seg000028.jpg 	manalas                  	0.0002
+demo_image/seg000031.jpg 	bad                      	0.0441
+demo_image/seg000032.jpg 	bees                     	0.0123
+demo_image/seg000056.jpg 	spucally                 	0.0004
+demo_image/seg000060.jpg 	extrications             	0.0001
+demo_image/seg000066.jpg 	and                      	0.0515
+demo_image/seg000069.jpg 	sellencess               	0.0000
+demo_image/seg000073.jpg 	the                      	0.0525
+demo_image/seg000079.jpg 	supporting               	0.0000
+demo_image/seg000101.jpg 	lister                   	0.0012
+demo_image/seg000109.jpg 	acurs                    	0.0033
+demo_image/seg000110.jpg 	man                      	0.0072
+demo_image/seg000113.jpg 	consersing               	0.0000
+demo_image/seg000116.jpg 	for                      	0.0395
+demo_image/seg000117.jpg 	promentalization         	0.0000
+demo_image/seg000125.jpg 	sunis                    	0.0006
+demo_image/seg000130.jpg 	a                        	0.2937
+demo_image/seg000154.jpg 	leys                     	0.0017
+demo_image/seg000159.jpg 	shysed                   	0.0071
+demo_image/seg000169.jpg 	the                      	0.0104
+demo_image/seg000175.jpg 	bess                     	0.0304
+demo_image/seg000200.jpg 	wits                     	0.0098
+demo_image/seg000204.jpg 	et                       	0.2137
+demo_image/seg000217.jpg 	dasi                     	0.0979
+demo_image/seg000237.jpg 	missas                   	0.0019
+demo_image/seg000238.jpg 	whs                      	0.0767
+demo_image/seg000239.jpg 	eless                    	0.0144
+demo_image/seg000242.jpg 	toonest                  	0.0025
+demo_image/seg000246.jpg 	the                      	0.0502
+demo_image/seg000328.jpg 	states                   	0.0000
+demo_image/seg000367.jpg 	a                        	0.2739
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/Screenshot from 2020-07-17 10-17-02.png	710                      	0.9873
+demo_image/Screenshot from 2020-07-17 10-25-14.png	710                      	0.9838
+demo_image/Screenshot from 2020-07-17 10-25-19.png	660                      	0.9921
+demo_image/Screenshot from 2020-07-17 10-25-24.png	3800                     	0.9976
+demo_image/Screenshot from 2020-07-17 10-25-29.png	410m                     	0.4858
+demo_image/Screenshot from 2020-07-17 10-25-35.png	2000                     	0.9734
+demo_image/Screenshot from 2020-07-17 10-25-41.png	630a                     	0.2250
+demo_image/Screenshot from 2020-07-17 10-25-46.png	26001                    	0.3198
+demo_image/Screenshot from 2020-07-17 10-25-55.png	410h                     	0.6718
+demo_image/Screenshot from 2020-07-17 10-26-07.png	410                      	0.9961
+demo_image/Screenshot from 2020-07-17 10-26-13.png	660a                     	0.9088
+demo_image/Screenshot from 2020-07-17 10-26-17.png	yo                       	0.1071
+demo_image/Screenshot from 2020-07-17 10-26-21.png	410h                     	0.8727
+demo_image/Screenshot from 2020-07-17 10-26-25.png	710m                     	0.4581
+demo_image/Screenshot from 2020-07-17 10-26-31.png	might                    	0.0052
+demo_image/Screenshot from 2020-07-17 10-26-36.png	the                      	0.1226
+demo_image/Screenshot from 2020-07-17 10-26-41.png	730                      	0.9892
+demo_image/Screenshot from 2020-07-17 10-26-46.png	680                      	0.9980
+demo_image/Screenshot from 2020-07-17 10-26-51.png	710                      	0.9698
+demo_image/Screenshot from 2020-07-17 10-26-55.png	2000                     	0.0585
+demo_image/Screenshot from 2020-07-17 10-26-59.png	730                      	0.9970
+demo_image/Screenshot from 2020-07-17 10-27-07.png	2700                     	0.9864
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/Screenshot from 2020-07-17 10-35-01.png	2600                     	0.9258
+demo_image/Screenshot from 2020-07-17 10-35-07.png	4101                     	0.6702
+demo_image/Screenshot from 2020-07-17 10-35-13.png	300                      	0.0512
+demo_image/Screenshot from 2020-07-17 10-35-20.png	hig                      	0.0555
+demo_image/Screenshot from 2020-07-17 10-35-28.png	410m                     	0.4091
+demo_image/Screenshot from 2020-07-17 10-35-34.png	710                      	0.9135
+demo_image/Screenshot from 2020-07-17 10-35-41.png	710                      	0.8775
+demo_image/Screenshot from 2020-07-17 10-35-46.png	710                      	0.9248
+demo_image/Screenshot from 2020-07-17 10-35-52.png	nso                      	0.2403
+demo_image/Screenshot from 2020-07-17 10-36-01.png	230                      	0.1116
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/Screenshot from 2020-07-17 10-35-01.png	2600                     	0.9258
+demo_image/Screenshot from 2020-07-17 10-35-07.png	4101                     	0.6702
+demo_image/Screenshot from 2020-07-17 10-35-13.png	300                      	0.0512
+demo_image/Screenshot from 2020-07-17 10-35-20.png	hig                      	0.0555
+demo_image/Screenshot from 2020-07-17 10-35-28.png	410m                     	0.4091
+demo_image/Screenshot from 2020-07-17 10-35-34.png	710                      	0.9135
+demo_image/Screenshot from 2020-07-17 10-35-41.png	710                      	0.8775
+demo_image/Screenshot from 2020-07-17 10-35-46.png	710                      	0.9248
+demo_image/Screenshot from 2020-07-17 10-35-52.png	nso                      	0.2403
+demo_image/Screenshot from 2020-07-17 10-36-01.png	230                      	0.1116
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/Screenshot from 2020-07-17 10-35-01.png	2600                     	0.9258
+demo_image/Screenshot from 2020-07-17 10-35-07.png	4101                     	0.6702
+demo_image/Screenshot from 2020-07-17 10-35-13.png	300                      	0.0512
+demo_image/Screenshot from 2020-07-17 10-35-20.png	hig                      	0.0555
+demo_image/Screenshot from 2020-07-17 10-35-28.png	410m                     	0.4091
+demo_image/Screenshot from 2020-07-17 10-35-34.png	710                      	0.9135
+demo_image/Screenshot from 2020-07-17 10-35-41.png	710                      	0.8775
+demo_image/Screenshot from 2020-07-17 10-35-46.png	710                      	0.9248
+demo_image/Screenshot from 2020-07-17 10-35-52.png	nso                      	0.2403
+demo_image/Screenshot from 2020-07-17 10-36-01.png	230                      	0.1116
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/Screenshot from 2020-07-17 10-35-01.png	2600                     	0.9258
+demo_image/Screenshot from 2020-07-17 10-35-07.png	4101                     	0.6702
+demo_image/Screenshot from 2020-07-17 10-35-13.png	300                      	0.0512
+demo_image/Screenshot from 2020-07-17 10-35-20.png	hig                      	0.0555
+demo_image/Screenshot from 2020-07-17 10-35-28.png	410m                     	0.4091
+demo_image/Screenshot from 2020-07-17 10-35-34.png	710                      	0.9135
+demo_image/Screenshot from 2020-07-17 10-35-41.png	710                      	0.8775
+demo_image/Screenshot from 2020-07-17 10-35-46.png	710                      	0.9248
+demo_image/Screenshot from 2020-07-17 10-35-52.png	nso                      	0.2403
+demo_image/Screenshot from 2020-07-17 10-36-01.png	230                      	0.1116
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/Screenshot from 2020-07-17 10-35-01.png	2600                     	0.9258
+demo_image/Screenshot from 2020-07-17 10-35-07.png	4101                     	0.6702
+demo_image/Screenshot from 2020-07-17 10-35-13.png	300                      	0.0512
+demo_image/Screenshot from 2020-07-17 10-35-20.png	hig                      	0.0555
+demo_image/Screenshot from 2020-07-17 10-35-28.png	410m                     	0.4091
+demo_image/Screenshot from 2020-07-17 10-35-34.png	710                      	0.9135
+demo_image/Screenshot from 2020-07-17 10-35-41.png	710                      	0.8775
+demo_image/Screenshot from 2020-07-17 10-35-46.png	710                      	0.9248
+demo_image/Screenshot from 2020-07-17 10-35-52.png	nso                      	0.2403
+demo_image/Screenshot from 2020-07-17 10-36-01.png	230                      	0.1116
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/Screenshot from 2020-07-17 10-35-01.png	2600                     	0.9258
+demo_image/Screenshot from 2020-07-17 10-35-07.png	4101                     	0.6702
+demo_image/Screenshot from 2020-07-17 10-35-13.png	300                      	0.0512
+demo_image/Screenshot from 2020-07-17 10-35-20.png	hig                      	0.0555
+demo_image/Screenshot from 2020-07-17 10-35-28.png	410m                     	0.4091
+demo_image/Screenshot from 2020-07-17 10-35-34.png	710                      	0.9135
+demo_image/Screenshot from 2020-07-17 10-35-41.png	710                      	0.8775
+demo_image/Screenshot from 2020-07-17 10-35-46.png	710                      	0.9248
+demo_image/Screenshot from 2020-07-17 10-35-52.png	nso                      	0.2403
+demo_image/Screenshot from 2020-07-17 10-36-01.png	230                      	0.1116
